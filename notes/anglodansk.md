@@ -123,3 +123,22 @@ Disse er bevidst valgte i karakterstemmen og er ikke fejl:
 ## Tilføj nye mønstre her efter hvert kapitel
 
 Format: dato, kapitel, mønster, hvorfor.
+
+- **2026-05-16, Ch 4** — "stod stående" (redundant). "Hun stod stående i
+  køkkendøren" → "Hun stod i køkkendøren." Engelsk "stood standing" /
+  "stood there" oversat for direkte.
+- **2026-05-16, Ch 4** — Stablet "Han havde X. Han havde Y. Han havde
+  Z." i scene-åbning. Pluskvamperfekt-klynge der lyder som
+  Hemingway-oversættelse. Opløs til én sætning med kommaer, eller flyt
+  handlinger ind i hovedklausuler.
+- **2026-05-16, Ch 4** — "Han var ikke overrasket. Han havde også vidst
+  at hun kendte det." Paret "Han var / Han havde" hvor anden sætning
+  bare gentager første som tankehandling. Saml: "Det havde han vidst
+  siden..."
+- **2026-05-16, Ch 4** — "Hun var i samme farve bluse" (være i + farve +
+  beklædning). Engelsk "she was in a blue shirt"-konstruktion. Dansk
+  foretrækker "Blusen havde samme farve" eller "Hun havde en blå bluse
+  på".
+- **2026-05-16, Ch 4** — "Hun lod ham om det" (lod ham om beslutningen).
+  Korrekt dansk, men risiko for overforbrug som karaktertic. Hold til
+  bevidste øjeblikke.
