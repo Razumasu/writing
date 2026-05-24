@@ -11,19 +11,22 @@
 | Drabsnatten, kl. ca. 20:55 | Skuddene falder, fem minutter i ni, under Bedrags rulletekster | Ch 1 |
 | Drabsnatten, kl. 20:57 | Kjeld Vestergaard går ind på Lyrskovgade 17 | Ch 2 (overvågning) |
 | Drabsnatten, kl. 21:01 | Vestergaard kommer ud igen med tasken | Ch 2 (overvågning) |
+| Drabsnatten, kl. ca. 22:30 | Karla går ned til Doris | Ch 4 |
 | Drabsnatten, kl. ca. 23:30 | Sander ankommer til porten | Ch 2 (overvågning) |
 | Drabsnatten, kl. ca. 01:30 | Brink ankommer til gerningsstedet | Ch 1 |
-| Dagen efter, kl. kvart over 3 | Brink ankommer hos Mads Riise | Ch 2 |
+| Dagen efter, kl. halv fire | Brink ankommer hos Mads Riise | Ch 2 |
 | Drabsdagen, kl. lidt før 3 om eftermiddagen | Karla sender SMS som "Lasse" til Vestergaard | Ch 3 |
 | Dagen efter, kl. kvart over 5 | Brink ankommer på Vigerslev Allé hos Vestergaard | Ch 3 |
-| Dagen efter, sen aften | Brink ankommer hos Karla, konfrontation, rekruttering | Ch 4 |
+| Dagen efter, kl. ca. 20:30 | Brink ankommer hos Karla, konfrontation, rekruttering | Ch 4 |
 
 ## Noter om tidsmæssig usikkerhed
 
 - Mellem skud (20:55) og Brinks ankomst (01:30) går ca. 4,5 timer.
   Hvad sker der i den tid? Vidner kontaktes, politiet ankommer,
-  Sander vurderer det er sag for Brink, ringer ham ud. Hvad gør Karla
-  i den tid? Hun er hos Doris da Brink kommer.
+  Sander vurderer det er sag for Brink, ringer ham ud. Karla venter
+  halvanden time i sin egen lejlighed efter Vestergaards flugt og
+  går ned til Doris ca. 22:30 — sandsynligvis efter første patrulje
+  er ankommet.
 - Karla er flyttet ind 4 måneder før drabet. Hvis hun var i opgangen
   for at finde Lasse, er det en lang og rolig forberedelse. Det er
   konsistent med en plot-retning hvor Karla har en plan, ikke en

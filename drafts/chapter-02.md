@@ -1,6 +1,6 @@
 # Kapitel 2 — Overvågningen
 
-Mørket faldt igen, og det var kun klokken kvart over tre. Brink steg ud af Saaben og lukkede døren forsigtigt. Han stod et øjeblik på fortovet og talte vinduerne på bygningen overfor. Elleve. Han talte ikke videre. Han havde ikke været hos Mads Riise i to år, og han havde lovet sig selv ikke at komme igen.
+Mørket faldt igen, og det var kun klokken halv fire. Brink steg ud af Saaben og lukkede døren forsigtigt. Han stod et øjeblik på fortovet og talte vinduerne på bygningen overfor. Elleve. Han talte ikke videre. Han havde ikke været hos Mads Riise i to år, og han havde lovet sig selv ikke at komme igen.
 
 Han krydsede gaden.
 

@@ -200,7 +200,7 @@ kapitel 3 og 4.
   Vestergaard på vej ned.
 - **Karla tager kokainen ud.** I sin egen lejlighed, gennem væggen.
   Tidspunkt: mellem Vestergaards flugt og hendes ankomst hos Doris.
-- **Karla går over til Doris.** Tidspunkt åbent. Hun er der da Brink
+- **Karla går over til Doris.** Kl. ca. 22:30. Hun er der da Brink
   kommer kl. 01:30.
 - **Brinks ankomst.** Kl. ca. 01:30.
 

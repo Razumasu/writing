@@ -1,6 +1,6 @@
 # Kapitel 4 — Tilbuddet
 
-Saaben holdt for enden af Lyrskovgade. Brink havde siddet i den i syvogtyve minutter med motoren slukket og en hånd på rattet. Vinduet havde været åbent et øjeblik, men novemberluften gjorde det værre.
+Saaben holdt for enden af Lyrskovgade. Klokken var halv ni. Brink havde siddet i den i syvogtyve minutter med motoren slukket og en hånd på rattet. Vinduet havde været åbent et øjeblik, men novemberluften gjorde det værre.
 
 Han talte de parkerede biler på den anden side af gaden. Tretten.
 
@@ -148,7 +148,7 @@ Hun smilede ikke og hun rynkede ikke. Hun hørte sin egen sætning blive sagt om
 
 "Og så gik De ned til Doris."
 
-"Jeg lukkede døren bag mig og gik ind hos mig selv. Jeg ventede til klokken var halv ti, så gik jeg ned."
+"Jeg lukkede døren bag mig og gik ind hos mig selv. Jeg ventede til klokken var halv elleve, så gik jeg ned."
 
 "De har nøgle til hende også."
 
@@ -252,7 +252,7 @@ Hun gik foran ud i entréen, trak frakken på, løftede sportstasken og åbnede 
 
 Hun lukkede døren uden at låse.
 
-De gik ned ad trappen. Fjorten trin ned til Doris' repos. Han talte dem ikke. Hun talte dem ikke. Det var det første tal i to dage som ikke fik en plads.
+De gik ned ad trappen. Fjorten trin ned til Doris' repos. Han talte dem ikke. Hun talte dem ikke. Det var det første tal i et døgn som ikke fik en plads.
 
 På tredje sal stoppede han ved Doris' dør og trak et stykke papir op af inderlommen. Han havde skrevet det i Saaben mens han ventede.
 
