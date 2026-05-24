@@ -122,7 +122,7 @@ Vestergaard så på beskeden, som om han læste den for første gang.
 
 "En der ville myrde Lasse."
 
-"En der havde myrdet Lasse fem minutter før De bankede på."
+"En der havde myrdet Lasse to-tre minutter før De bankede på."
 
 Vestergaard så på ham. Han forstod ikke endnu. Han havde lige hørt et tilbud, men troede det var en dom.
 
